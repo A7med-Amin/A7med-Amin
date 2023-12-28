@@ -1,9 +1,4 @@
-### Hi there 👋 
-
-My name is Ahmed Amin and I'm a Software Engineer based in Cairo. 
-
-![Profile views](https://gpvc.arturio.dev/A7med-Amin)
-
+### Hi there 👋, I am Ahmed Ameen
 
 ## 🛠️ Skills
 - Programming languages: C , C++ ,
