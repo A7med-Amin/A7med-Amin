@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ameen</h1>
-<h3 align="center">A passionate Computer engineer from Egypt</h3>
+<h3 align="center">Computer engineer from Egypt</h3>
 
 ![productive](https://github.com/A7med-Amin/A7med-Amin/assets/80707696/1de96ff4-2d4f-46b9-a338-ebd2be3e95d7)
 
